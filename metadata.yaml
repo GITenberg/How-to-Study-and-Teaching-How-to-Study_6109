@@ -1,0 +1,37 @@
+_repo: How-to-Study-and-Teaching-How-to-Study_6109
+creator:
+  author:
+    agent_name: McMurry, Frank M. (Frank Morton)
+    alias: McMurry, F. M. (Frank Morton)
+    birthdate: 1862
+    deathdate: 1936
+    gutenberg_agent_id: '1952'
+    url: http://www.gutenberg.org/2009/agents/1952
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Morton_McMurry
+description: '"Some seven or eight years ago the question of how to teach children
+  to study happened to be included in a list of topics that I hastily prepared for
+  discussion with one of my classes. On my later examination of this problem I was
+  much surprised, both at its difficulty and scope, and also at the extent to which
+  it had been neglected by teachers. Ever since that time the two questions, How adults
+  should study, and How children should be taught to study, have together been my
+  chief hobby. The following ideas are partly the result of reading; but since there
+  is a meager quantity of literature bearing on this general theme, they are largely
+  the result of observation, experiment, and discussion with my students. Many of
+  the latter will recognize their own contributions in these pages, for I have endeavored
+  to preserve and use every good suggestion that came from them; and I am glad to
+  acknowledge here my indebtedness to them"--Preface. (PsycINFO Database Record (c)
+  2005 APA, all rights reserved).'
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6109'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Study skills'
+- !lcsh 'Teaching'
+- !lcc 'LB'
+title: How to Study and Teaching How to Study
+url: http://www.gutenberg.org/ebooks/6109
