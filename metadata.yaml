@@ -1,5 +1,5 @@
 _repo: How-to-Study-and-Teaching-How-to-Study_6109
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -39,5 +39,6 @@ subjects:
 - !lcsh 'Study skills'
 - !lcsh 'Teaching'
 - !lcc 'LB'
+- GITenberg
 title: How to Study and Teaching How to Study
 url: http://www.gutenberg.org/ebooks/6109
